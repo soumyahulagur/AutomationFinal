@@ -1,0 +1,976 @@
+2020-07-29 23:40:59 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-29 23:40:59 INFO  WaitHelper:40 - Element is present 
+2020-07-29 23:41:01 INFO  TestBase:278 - Browser quit
+2020-07-30 10:49:23 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 10:49:23 INFO  WaitHelper:40 - Element is present 
+2020-07-30 10:49:23 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 10:49:25 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 10:49:25 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0e98d1a476ef878fe2163ee8ec359076)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 10:49:25 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0e98d1a476ef878fe2163ee8ec359076)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 10:49:26 INFO  TestBase:278 - Browser quit
+2020-07-30 10:52:58 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 10:52:58 INFO  WaitHelper:40 - Element is present 
+2020-07-30 10:52:58 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 10:53:00 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 10:53:00 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (c1de016d04938469558151989c13aa44)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 10:53:00 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (c1de016d04938469558151989c13aa44)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 10:53:00 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 10:53:00 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 10:53:01 INFO  TestBase:278 - Browser quit
+2020-07-30 10:57:36 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 10:57:36 INFO  WaitHelper:40 - Element is present 
+2020-07-30 10:57:36 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 10:57:38 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 10:57:39 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (c7cc4ac34c07ef7558ed078de5a1ce07)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 10:57:39 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (c7cc4ac34c07ef7558ed078de5a1ce07)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 10:57:40 INFO  TestBase:278 - Browser quit
+2020-07-30 11:00:40 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:00:40 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:00:41 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:00:44 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 11:00:44 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d51be4cbb1746be88f8aad88b8450d7b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:00:44 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d51be4cbb1746be88f8aad88b8450d7b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:00:45 INFO  TestBase:278 - Browser quit
+2020-07-30 11:01:28 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:01:28 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:01:28 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:01:30 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 11:01:31 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (b4af1ded581d650f18c3e807270eb1e4)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:01:31 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (b4af1ded581d650f18c3e807270eb1e4)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:01:32 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 11:01:32 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 11:01:33 INFO  TestBase:278 - Browser quit
+2020-07-30 11:04:24 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:04:24 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:04:24 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:04:26 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 11:04:26 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0d591dc46d3a2386165cf1a7fc51ea73)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:04:26 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0d591dc46d3a2386165cf1a7fc51ea73)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:04:29 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 11:04:29 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 11:04:30 INFO  TestBase:278 - Browser quit
+2020-07-30 11:06:55 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:06:55 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:06:55 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:06:58 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 11:06:58 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (b83ec5fb45578967d3e84417e7a49d49)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:06:58 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (b83ec5fb45578967d3e84417e7a49d49)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:07:00 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 11:07:00 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 11:07:01 INFO  TestBase:278 - Browser quit
+2020-07-30 11:07:44 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:07:44 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:07:44 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:07:46 INFO  LoginToOrder:82 - Cleared the UserName field and the object is 
+2020-07-30 11:07:47 INFO  LoginToOrder:84 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (6a56226ad14d336cd4f2356d0ddf2ab3)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:07:47 INFO  LoginToOrder:86 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (6a56226ad14d336cd4f2356d0ddf2ab3)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:07:49 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 11:07:49 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 11:07:50 INFO  TestBase:278 - Browser quit
+2020-07-30 11:54:07 INFO  TestBase:278 - Browser quit
+2020-07-30 11:54:53 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:54:53 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:54:53 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:54:55 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 11:54:56 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (4a50c8ac2c46ed72fd5fc89fe2ad2f46)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:54:56 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (4a50c8ac2c46ed72fd5fc89fe2ad2f46)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:54:58 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 11:54:59 INFO  TestBase:278 - Browser quit
+2020-07-30 11:58:51 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 11:58:51 INFO  WaitHelper:40 - Element is present 
+2020-07-30 11:58:51 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 11:58:54 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 11:58:54 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (51b235c2fa5ad648a8ad31e24d23280b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 11:58:54 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (51b235c2fa5ad648a8ad31e24d23280b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 11:58:57 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 11:58:57 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:00:19 INFO  TestBase:278 - Browser quit
+2020-07-30 12:02:52 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:02:52 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:02:52 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:02:55 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 12:02:55 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d5f6848dfd25d48056aac30298db66dc)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:02:55 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d5f6848dfd25d48056aac30298db66dc)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:02:57 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 12:02:57 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:04:18 INFO  TestBase:278 - Browser quit
+2020-07-30 12:05:22 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:05:22 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:05:22 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:05:24 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 12:05:24 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (42480feb8bb26425423b6aea0544d451)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:05:25 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (42480feb8bb26425423b6aea0544d451)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:05:26 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 12:05:26 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:06:48 INFO  TestBase:278 - Browser quit
+2020-07-30 12:15:15 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:15:15 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:15:15 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:15:17 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 12:15:17 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (e04e5b2caaaf371357b47040480b6562)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:15:17 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (e04e5b2caaaf371357b47040480b6562)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:15:19 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 12:15:19 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:16:41 INFO  TestBase:278 - Browser quit
+2020-07-30 12:17:33 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:17:33 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:17:33 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:17:35 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 12:17:35 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (6df52d054241c84bf4519327fa8b9787)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:17:36 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (6df52d054241c84bf4519327fa8b9787)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:17:37 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 12:17:38 INFO  TestBase:278 - Browser quit
+2020-07-30 12:18:39 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:18:39 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:18:39 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:18:41 INFO  LoginToOrder:83 - Cleared the UserName field and the object is 
+2020-07-30 12:18:41 INFO  LoginToOrder:85 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (5a1ae5e2c4a3a5e0eda5ff400bbb8b7f)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:18:41 INFO  LoginToOrder:87 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (5a1ae5e2c4a3a5e0eda5ff400bbb8b7f)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:18:43 INFO  LoginToOrder:89 - Successfully loggedin to shopping site
+2020-07-30 12:18:46 INFO  LoginToOrder:91 - Entering Women section
+2020-07-30 12:18:46 INFO  LoginToOrder:98 - Entering T-Shirt section
+2020-07-30 12:18:46 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:18:46 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:18:47 INFO  TestBase:278 - Browser quit
+2020-07-30 12:24:43 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:24:43 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:24:43 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:24:46 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:24:46 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d5d40408c5bb97d2202b06f879d2f244)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:24:46 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d5d40408c5bb97d2202b06f879d2f244)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:24:50 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:24:52 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:24:52 INFO  LoginToOrder:109 - Entering T-Shirt section
+2020-07-30 12:24:53 INFO  LoginToOrder:113 - T-Shirt Added to the Cart
+2020-07-30 12:24:54 INFO  TestBase:278 - Browser quit
+2020-07-30 12:25:50 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:25:50 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:25:50 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:25:53 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:25:53 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (3dbf70745c713f49f79be8d34f252d37)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:25:53 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (3dbf70745c713f49f79be8d34f252d37)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:25:55 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:25:58 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:25:58 INFO  LoginToOrder:109 - Entering T-Shirt section
+2020-07-30 12:25:58 INFO  LoginToOrder:113 - T-Shirt Added to the Cart
+2020-07-30 12:25:59 INFO  TestBase:278 - Browser quit
+2020-07-30 12:31:50 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:31:50 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:31:50 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:31:52 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:31:52 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (9bb17832f03df432e1019880f2c78409)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:31:53 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (9bb17832f03df432e1019880f2c78409)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:31:54 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:31:57 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:31:57 INFO  LoginToOrder:109 - Entering T-Shirt section
+2020-07-30 12:31:57 INFO  LoginToOrder:113 - T-Shirt Added to the Cart
+2020-07-30 12:31:57 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:31:59 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:31:59 INFO  LoginToOrder:118 - Blouse Added to the Cart
+2020-07-30 12:31:59 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:31:59 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:32:00 INFO  TestBase:278 - Browser quit
+2020-07-30 12:34:51 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:34:51 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:34:51 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:34:54 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:34:54 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (cdf8cf026deb7781a1d2869436b56fc5)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:34:54 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (cdf8cf026deb7781a1d2869436b56fc5)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:34:56 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:34:59 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:34:59 INFO  LoginToOrder:109 - Entering T-Shirt section
+2020-07-30 12:34:59 INFO  LoginToOrder:113 - T-Shirt Added to the Cart
+2020-07-30 12:34:59 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:35:00 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:35:00 INFO  LoginToOrder:118 - Blouse Added to the Cart
+2020-07-30 12:35:00 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:35:00 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:35:01 INFO  TestBase:278 - Browser quit
+2020-07-30 12:35:39 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:35:39 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:35:39 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:35:41 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:35:41 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (8a2bae28afe23c56ecb4c07953ecd77c)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:35:42 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (8a2bae28afe23c56ecb4c07953ecd77c)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:35:43 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:35:46 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:35:46 INFO  LoginToOrder:109 - Entering T-Shirt section
+2020-07-30 12:35:47 INFO  LoginToOrder:113 - T-Shirt Added to the Cart
+2020-07-30 12:35:47 INFO  LoginToOrder:118 - Blouse Added to the Cart
+2020-07-30 12:35:47 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:35:47 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:35:48 INFO  TestBase:278 - Browser quit
+2020-07-30 12:38:19 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:38:19 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:38:19 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:38:21 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:38:21 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (c5be024932c492ba5413c0151d033bf5)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:38:21 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (c5be024932c492ba5413c0151d033bf5)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:38:23 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:38:26 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:38:26 INFO  LoginToOrder:105 - Adding T-Shirt To the cart
+2020-07-30 12:38:26 INFO  LoginToOrder:107 - T-Shirt Added to the Cart
+2020-07-30 12:38:26 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:38:26 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:38:27 INFO  TestBase:278 - Browser quit
+2020-07-30 12:41:42 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:41:42 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:41:42 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:41:45 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:41:45 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (a2bd90368224527487d1ed9377158283)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:41:45 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (a2bd90368224527487d1ed9377158283)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:41:47 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:41:50 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:41:50 INFO  LoginToOrder:105 - Adding T-Shirt To the cart
+2020-07-30 12:41:55 INFO  LoginToOrder:108 - T-Shirt Added to the Cart
+2020-07-30 12:41:55 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:41:55 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:41:56 INFO  TestBase:278 - Browser quit
+2020-07-30 12:45:11 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:45:11 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:45:11 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:45:13 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:45:13 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (53f7b6fe88ea3a8062608483ec30a5e4)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:45:13 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (53f7b6fe88ea3a8062608483ec30a5e4)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:45:15 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:45:17 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:45:22 INFO  LoginToOrder:106 - Adding T-Shirt To the cart
+2020-07-30 12:45:28 INFO  LoginToOrder:109 - T-Shirt Added to the Cart
+2020-07-30 12:45:28 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:45:28 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:45:29 INFO  TestBase:278 - Browser quit
+2020-07-30 12:46:57 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:46:57 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:46:57 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:46:59 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:46:59 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (c3c312d2143a16065549b45a3cd71f11)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:46:59 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (c3c312d2143a16065549b45a3cd71f11)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:47:02 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:47:03 INFO  TestBase:278 - Browser quit
+2020-07-30 12:49:02 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:49:02 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:49:02 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:49:04 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:49:05 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d822b1acc5313aabc1ca1bf23e77d84d)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:49:05 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d822b1acc5313aabc1ca1bf23e77d84d)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:49:06 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:49:08 INFO  TestBase:278 - Browser quit
+2020-07-30 12:50:21 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:50:21 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:50:21 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:50:24 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:50:24 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (50be97e366ff972958c6a13140652aa0)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:50:24 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (50be97e366ff972958c6a13140652aa0)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:50:26 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:50:26 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:51:48 INFO  TestBase:278 - Browser quit
+2020-07-30 12:52:27 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:52:27 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:52:27 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:52:29 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:52:29 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (578720a7c3d141c76c067a1ab4876b1e)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:52:29 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (578720a7c3d141c76c067a1ab4876b1e)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:52:31 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:52:31 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:53:52 INFO  TestBase:278 - Browser quit
+2020-07-30 12:55:00 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:55:00 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:55:00 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:55:02 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 12:55:02 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (b68fc536b778af8206a3fb267df70721)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:55:02 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (b68fc536b778af8206a3fb267df70721)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:55:04 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 12:55:04 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:56:26 INFO  TestBase:278 - Browser quit
+2020-07-30 12:56:58 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:56:58 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:56:58 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:57:00 INFO  LoginToOrder:93 - Cleared the UserName field and the object is 
+2020-07-30 12:57:00 INFO  LoginToOrder:95 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d6d8f66ba5985661beb2f7544b640bf4)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:57:00 INFO  LoginToOrder:97 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d6d8f66ba5985661beb2f7544b640bf4)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:57:02 INFO  LoginToOrder:99 - Successfully loggedin to shopping site
+2020-07-30 12:57:02 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:57:02 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:57:05 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 12:57:10 INFO  LoginToOrder:106 - Adding T-Shirt To the cart
+2020-07-30 12:57:15 INFO  LoginToOrder:109 - T-Shirt Added to the Cart
+2020-07-30 12:57:15 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:57:15 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:57:16 INFO  TestBase:278 - Browser quit
+2020-07-30 12:58:26 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 12:58:26 INFO  WaitHelper:40 - Element is present 
+2020-07-30 12:58:26 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 12:58:29 INFO  LoginToOrder:93 - Cleared the UserName field and the object is 
+2020-07-30 12:58:29 INFO  LoginToOrder:95 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (9dac3a267ee2b7bdf9d38216c80c7d8b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 12:58:29 INFO  LoginToOrder:97 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (9dac3a267ee2b7bdf9d38216c80c7d8b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 12:58:31 INFO  LoginToOrder:99 - Successfully loggedin to shopping site
+2020-07-30 12:58:33 INFO  LoginToOrder:101 - Entering Women section
+2020-07-30 12:58:38 INFO  LoginToOrder:105 - Adding T-Shirt To the cart
+2020-07-30 12:58:44 INFO  LoginToOrder:108 - T-Shirt Added to the Cart
+2020-07-30 12:58:44 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 12:58:44 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 12:58:45 INFO  TestBase:278 - Browser quit
+2020-07-30 13:01:21 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:01:21 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:01:21 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:01:23 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 13:01:23 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (58535cfca5d46a778c54b71adc41df6c)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:01:24 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (58535cfca5d46a778c54b71adc41df6c)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:01:26 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 13:01:29 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 13:01:34 INFO  LoginToOrder:108 - Adding T-Shirt To the cart
+2020-07-30 13:01:40 INFO  TestBase:278 - Browser quit
+2020-07-30 13:05:12 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:05:12 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:05:12 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:05:14 INFO  LoginToOrder:94 - Cleared the UserName field and the object is 
+2020-07-30 13:05:14 INFO  LoginToOrder:96 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0ea406de8f74affbcb9d48c73b8631ee)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:05:14 INFO  LoginToOrder:98 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0ea406de8f74affbcb9d48c73b8631ee)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:05:17 INFO  LoginToOrder:100 - Successfully loggedin to shopping site
+2020-07-30 13:05:20 INFO  LoginToOrder:102 - Entering Women section
+2020-07-30 13:05:20 INFO  LoginToOrder:108 - Adding T-Shirt To the cart
+2020-07-30 13:05:25 INFO  LoginToOrder:111 - T-Shirt Added to the Cart
+2020-07-30 13:05:25 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 13:05:25 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 13:05:26 INFO  TestBase:278 - Browser quit
+2020-07-30 13:08:11 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:08:11 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:08:11 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:08:14 INFO  LoginToOrder:92 - Cleared the UserName field and the object is 
+2020-07-30 13:08:14 INFO  LoginToOrder:94 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (92886940b0448c61028e4140a60af459)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:08:15 INFO  LoginToOrder:96 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (92886940b0448c61028e4140a60af459)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:08:16 INFO  LoginToOrder:98 - Successfully loggedin to shopping site
+2020-07-30 13:08:18 INFO  LoginToOrder:100 - Entering Women section
+2020-07-30 13:08:21 INFO  LoginToOrder:107 - Adding T-Shirt To the cart
+2020-07-30 13:08:26 INFO  LoginToOrder:110 - T-Shirt Added to the Cart
+2020-07-30 13:08:26 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 13:08:26 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 13:08:27 INFO  TestBase:278 - Browser quit
+2020-07-30 13:08:43 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:08:43 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:08:43 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:08:45 INFO  LoginToOrder:92 - Cleared the UserName field and the object is 
+2020-07-30 13:08:45 INFO  LoginToOrder:94 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (adc0b57ee0acec67a5c382050e14e301)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:08:45 INFO  LoginToOrder:96 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (adc0b57ee0acec67a5c382050e14e301)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:08:47 INFO  LoginToOrder:98 - Successfully loggedin to shopping site
+2020-07-30 13:08:49 INFO  LoginToOrder:100 - Entering Women section
+2020-07-30 13:08:52 INFO  LoginToOrder:107 - Adding T-Shirt To the cart
+2020-07-30 13:08:57 INFO  LoginToOrder:110 - T-Shirt Added to the Cart
+2020-07-30 13:08:57 INFO  loginToApplication:33 -  ============Logged in Successfully and Dashboard page is displayed============ 
+2020-07-30 13:08:57 INFO  loginToApplication:35 -  ============Verified DataSource Login Test============ 
+2020-07-30 13:08:58 INFO  TestBase:278 - Browser quit
+2020-07-30 13:14:13 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:14:13 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:14:13 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:14:16 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:14:16 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (143427ac82d3621933e962feee5a8f9e)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:14:16 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (143427ac82d3621933e962feee5a8f9e)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:14:18 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:14:20 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:14:22 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:14:28 INFO  TestBase:278 - Browser quit
+2020-07-30 13:17:10 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:17:10 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:17:10 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:17:12 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:17:13 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (867444ad6dc81554e01633cfe8edba42)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:17:13 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (867444ad6dc81554e01633cfe8edba42)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:17:14 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:17:17 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:17:19 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:17:25 INFO  TestBase:278 - Browser quit
+2020-07-30 13:18:04 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:18:04 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:18:04 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:18:06 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:18:06 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (9f518ee1f0cf4f626fc902611288827d)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:18:06 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (9f518ee1f0cf4f626fc902611288827d)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:18:08 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:18:10 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:18:12 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:18:18 INFO  TestBase:278 - Browser quit
+2020-07-30 13:19:11 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:19:11 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:19:11 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:19:13 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:19:13 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (e1d3c9a7d2a7f7ce759e077295da4119)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:19:13 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (e1d3c9a7d2a7f7ce759e077295da4119)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:19:15 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:19:18 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:19:21 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:19:27 INFO  TestBase:278 - Browser quit
+2020-07-30 13:22:12 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:22:12 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:22:12 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:22:14 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:22:15 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (01d0d6185d002993713f135fd268d660)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:22:15 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (01d0d6185d002993713f135fd268d660)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:22:17 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:22:19 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:22:22 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:22:28 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:23:49 INFO  TestBase:278 - Browser quit
+2020-07-30 13:31:34 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:31:34 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:31:34 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:31:36 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:31:37 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (103d9a4cf605cf705b7e13fd2724d447)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:31:37 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (103d9a4cf605cf705b7e13fd2724d447)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:31:38 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:31:41 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:31:44 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:31:51 INFO  TestBase:278 - Browser quit
+2020-07-30 13:35:50 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:35:50 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:35:50 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:35:52 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:35:52 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (a44a16d79574514ecb4aba53cc8e0622)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:35:52 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (a44a16d79574514ecb4aba53cc8e0622)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:35:54 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:35:57 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:35:59 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:36:06 INFO  TestBase:278 - Browser quit
+2020-07-30 13:37:37 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:37:37 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:37:37 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:37:39 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:37:39 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (2c3a57196ceba86dc953e97979491795)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:37:39 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (2c3a57196ceba86dc953e97979491795)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:37:41 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:37:43 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:37:45 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:37:53 INFO  TestBase:278 - Browser quit
+2020-07-30 13:41:43 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:41:43 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:41:43 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:41:45 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:41:45 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (9d0ebdc561893d9059db8b78eecece54)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:41:45 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (9d0ebdc561893d9059db8b78eecece54)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:41:47 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:41:49 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:41:52 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:41:59 INFO  TestBase:278 - Browser quit
+2020-07-30 13:43:02 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:43:02 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:43:02 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:43:04 INFO  LoginToOrder:81 - Cleared the UserName field and the object is 
+2020-07-30 13:43:05 INFO  LoginToOrder:83 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d68936f601522be481024439f6302753)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:43:05 INFO  LoginToOrder:85 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d68936f601522be481024439f6302753)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:43:07 INFO  LoginToOrder:87 - Successfully loggedin to shopping site
+2020-07-30 13:43:09 INFO  LoginToOrder:89 - Entering Women section
+2020-07-30 13:43:11 INFO  LoginToOrder:96 - Adding T-Shirt To the cart
+2020-07-30 13:43:19 INFO  TestBase:278 - Browser quit
+2020-07-30 13:45:39 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:45:39 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:45:39 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:45:41 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:45:41 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (5c7afc05559be8ca820f906a84c3690b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:45:41 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (5c7afc05559be8ca820f906a84c3690b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:45:43 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:45:45 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:45:45 INFO  LoginToOrder:107 - Checked out the item for order
+2020-07-30 13:45:47 INFO  TestBase:278 - Browser quit
+2020-07-30 13:48:36 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:48:36 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:48:36 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:48:38 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:48:38 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (6e716ab2cf5760cfb14bf4ef52ea1117)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:48:38 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (6e716ab2cf5760cfb14bf4ef52ea1117)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:48:40 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:48:42 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:48:42 INFO  LoginToOrder:107 - Checked out the item for order
+2020-07-30 13:48:43 INFO  TestBase:278 - Browser quit
+2020-07-30 13:49:40 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:49:40 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:49:40 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:49:42 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:49:42 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (65471976a66b0a6d3ea44a2a29902832)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:49:42 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (65471976a66b0a6d3ea44a2a29902832)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:49:44 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:49:47 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:49:47 INFO  LoginToOrder:108 - Checked out the item for order
+2020-07-30 13:49:48 INFO  TestBase:278 - Browser quit
+2020-07-30 13:51:02 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:51:03 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:51:03 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:51:04 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:51:05 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (48deff073f27d507dbf2dd8e3bd96587)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:51:05 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (48deff073f27d507dbf2dd8e3bd96587)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:51:06 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:51:09 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:51:09 INFO  LoginToOrder:108 - Checked out the item for order
+2020-07-30 13:51:10 INFO  TestBase:278 - Browser quit
+2020-07-30 13:51:36 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:51:36 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:51:36 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:51:38 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:51:38 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (fcb240aea36a54c756ec8255847debbe)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:51:38 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (fcb240aea36a54c756ec8255847debbe)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:51:41 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:51:43 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:59:00 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 13:59:00 INFO  WaitHelper:40 - Element is present 
+2020-07-30 13:59:00 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 13:59:02 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 13:59:02 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0ea71d55be6a6dab8f30743220687bc6)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 13:59:02 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0ea71d55be6a6dab8f30743220687bc6)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 13:59:04 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 13:59:07 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 13:59:07 INFO  LoginToOrder:108 - Checked out the item for order
+2020-07-30 13:59:08 INFO  TestBase:278 - Browser quit
+2020-07-30 14:07:35 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:07:35 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:07:35 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:07:37 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 14:07:37 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0a47bae538ed09780042b05011a15501)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:07:37 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0a47bae538ed09780042b05011a15501)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:07:39 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 14:07:42 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 14:07:44 INFO  LoginToOrder:100 - Adding T-Shirt To the cart
+2020-07-30 14:07:51 INFO  TestBase:278 - Browser quit
+2020-07-30 14:16:18 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:16:18 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:16:18 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:16:21 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 14:16:21 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (fc634a84ea0db20cd57d4fa57e170729)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:16:21 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (fc634a84ea0db20cd57d4fa57e170729)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:16:23 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 14:16:25 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 14:16:28 INFO  LoginToOrder:100 - Adding T-Shirt To the cart
+2020-07-30 14:16:35 INFO  TestBase:278 - Browser quit
+2020-07-30 14:20:48 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:20:48 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:20:48 INFO  loginToApplication:31 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:20:50 INFO  LoginToOrder:84 - Cleared the UserName field and the object is 
+2020-07-30 14:20:50 INFO  LoginToOrder:86 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (72dc936d1e490e034057824dcdb6c1ed)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:20:50 INFO  LoginToOrder:88 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (72dc936d1e490e034057824dcdb6c1ed)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:20:52 INFO  LoginToOrder:90 - Successfully loggedin to shopping site
+2020-07-30 14:20:54 INFO  LoginToOrder:92 - Entering Women section
+2020-07-30 14:20:57 INFO  LoginToOrder:98 - Adding T-Shirt To the cart
+2020-07-30 14:20:58 INFO  TestBase:278 - Browser quit
+2020-07-30 14:27:14 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:27:14 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:27:14 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:27:16 INFO  LoginToOrder:87 - Cleared the UserName field and the object is 
+2020-07-30 14:27:16 INFO  LoginToOrder:89 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d820cb53880d95eb5c358719e736c7a6)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:27:17 INFO  LoginToOrder:91 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d820cb53880d95eb5c358719e736c7a6)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:27:18 INFO  LoginToOrder:93 - Successfully loggedin to shopping site
+2020-07-30 14:27:21 INFO  LoginToOrder:95 - Entering Women section
+2020-07-30 14:27:24 INFO  TestBase:278 - Browser quit
+2020-07-30 14:46:39 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:46:39 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:46:39 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:46:43 INFO  LoginToOrder:88 - Cleared the UserName field and the object is 
+2020-07-30 14:46:43 INFO  LoginToOrder:90 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (9cf6aed6363ce7046400add5a3df5b5b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:46:44 INFO  LoginToOrder:92 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (9cf6aed6363ce7046400add5a3df5b5b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:46:46 INFO  LoginToOrder:94 - Successfully loggedin to shopping site
+2020-07-30 14:46:48 INFO  LoginToOrder:96 - Entering Women section
+2020-07-30 14:46:50 INFO  LoginToOrder:116 - Adding T-Shirt To the cart
+2020-07-30 14:46:50 INFO  LoginToOrder:125 - T-Shirt Added to the Cart
+2020-07-30 14:46:52 INFO  TestBase:278 - Browser quit
+2020-07-30 14:50:27 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:50:27 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:50:27 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:50:30 INFO  LoginToOrder:88 - Cleared the UserName field and the object is 
+2020-07-30 14:50:30 INFO  LoginToOrder:90 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (b08dfe690e2ccc5dd430ba6f88bb6bf9)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:50:30 INFO  LoginToOrder:92 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (b08dfe690e2ccc5dd430ba6f88bb6bf9)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:50:33 INFO  LoginToOrder:94 - Successfully loggedin to shopping site
+2020-07-30 14:50:36 INFO  LoginToOrder:96 - Entering Women section
+2020-07-30 14:50:38 INFO  LoginToOrder:115 - Adding T-Shirt To the cart
+2020-07-30 14:50:39 INFO  TestBase:278 - Browser quit
+2020-07-30 14:55:46 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:55:46 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:55:46 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:55:50 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 14:55:50 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (b3e1ca869f9a2eb6b3475e3cb085002e)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:55:50 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (b3e1ca869f9a2eb6b3475e3cb085002e)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:55:53 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 14:55:56 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 14:56:00 INFO  TestBase:278 - Browser quit
+2020-07-30 14:56:43 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:56:43 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:56:43 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:56:45 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 14:56:46 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d537eee864603c8b2c695419ea031d92)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:56:46 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d537eee864603c8b2c695419ea031d92)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:56:47 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 14:56:50 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 14:56:53 INFO  TestBase:278 - Browser quit
+2020-07-30 14:57:38 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:57:38 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:57:39 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:57:41 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 14:57:41 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (08656d6e3cd720865e9d4261cc99a36b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:57:41 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (08656d6e3cd720865e9d4261cc99a36b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:57:43 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 14:57:46 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 14:57:49 INFO  TestBase:278 - Browser quit
+2020-07-30 14:59:35 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 14:59:35 INFO  WaitHelper:40 - Element is present 
+2020-07-30 14:59:35 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 14:59:37 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 14:59:38 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (e866c4d4e1514c04a08bbf5c3ba72c00)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 14:59:38 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (e866c4d4e1514c04a08bbf5c3ba72c00)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 14:59:39 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 14:59:42 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 14:59:45 INFO  TestBase:278 - Browser quit
+2020-07-30 15:00:24 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:00:24 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:00:24 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:00:26 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 15:00:26 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (44c9b512dfcfbaa741a27eccce8a97da)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:00:26 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (44c9b512dfcfbaa741a27eccce8a97da)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:00:29 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 15:00:32 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 15:00:35 INFO  TestBase:278 - Browser quit
+2020-07-30 15:02:00 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:02:00 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:02:00 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:02:02 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 15:02:02 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (8f3ae0623c4069e3b786bc9cb0f67ba3)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:02:02 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (8f3ae0623c4069e3b786bc9cb0f67ba3)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:02:04 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 15:02:06 INFO  LoginToOrder:105 - Entering T-Shirts Section section
+2020-07-30 15:02:15 INFO  TestBase:278 - Browser quit
+2020-07-30 15:03:42 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:03:42 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:03:42 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:03:44 INFO  LoginToOrder:97 - Cleared the UserName field and the object is 
+2020-07-30 15:03:45 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (fd2c943fd95266dc18a070781503ade4)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:03:45 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (fd2c943fd95266dc18a070781503ade4)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:03:47 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 15:03:49 INFO  LoginToOrder:105 - Entering Women section
+2020-07-30 15:03:50 INFO  TestBase:278 - Browser quit
+2020-07-30 15:08:41 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:08:41 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:08:41 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:08:43 INFO  LoginToOrder:99 - Cleared the UserName field and the object is 
+2020-07-30 15:08:43 INFO  LoginToOrder:101 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (427aefe91202e18f78e0f49d40c6b7cd)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:08:43 INFO  LoginToOrder:103 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (427aefe91202e18f78e0f49d40c6b7cd)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:08:45 INFO  LoginToOrder:105 - Successfully loggedin to shopping site
+2020-07-30 15:08:48 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 15:08:56 INFO  TestBase:278 - Browser quit
+2020-07-30 15:09:14 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:09:14 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:09:14 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:09:16 INFO  LoginToOrder:99 - Cleared the UserName field and the object is 
+2020-07-30 15:09:16 INFO  LoginToOrder:101 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (795acb97530a143cad3631ec559b79d6)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:09:16 INFO  LoginToOrder:103 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (795acb97530a143cad3631ec559b79d6)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:09:18 INFO  LoginToOrder:105 - Successfully loggedin to shopping site
+2020-07-30 15:09:20 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 15:09:28 INFO  TestBase:278 - Browser quit
+2020-07-30 15:11:07 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:11:07 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:11:07 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:11:09 INFO  LoginToOrder:99 - Cleared the UserName field and the object is 
+2020-07-30 15:11:09 INFO  LoginToOrder:101 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (56174804e2057592cbb2e12643658b61)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:11:09 INFO  LoginToOrder:103 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (56174804e2057592cbb2e12643658b61)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:11:11 INFO  LoginToOrder:105 - Successfully loggedin to shopping site
+2020-07-30 15:11:14 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 15:11:28 INFO  TestBase:278 - Browser quit
+2020-07-30 15:15:03 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:15:03 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:15:03 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:15:06 INFO  LoginToOrder:102 - Cleared the UserName field and the object is 
+2020-07-30 15:15:06 INFO  LoginToOrder:104 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d21938824c825a614dc7b3c98f6a417e)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:15:06 INFO  LoginToOrder:106 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d21938824c825a614dc7b3c98f6a417e)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:15:08 INFO  LoginToOrder:108 - Successfully loggedin to shopping site
+2020-07-30 15:15:10 INFO  LoginToOrder:110 - Entering Women section
+2020-07-30 15:15:27 INFO  TestBase:278 - Browser quit
+2020-07-30 15:20:37 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:20:37 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:20:37 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:20:39 INFO  LoginToOrder:102 - Cleared the UserName field and the object is 
+2020-07-30 15:20:39 INFO  LoginToOrder:104 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (109d0531e9eaadf82ba92bd47494ec0f)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:20:39 INFO  LoginToOrder:106 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (109d0531e9eaadf82ba92bd47494ec0f)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:20:41 INFO  LoginToOrder:108 - Successfully loggedin to shopping site
+2020-07-30 15:20:44 INFO  LoginToOrder:110 - Entering Women section
+2020-07-30 15:20:59 INFO  TestBase:278 - Browser quit
+2020-07-30 15:33:05 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:33:06 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:33:06 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:33:08 INFO  LoginToOrder:102 - Cleared the UserName field and the object is 
+2020-07-30 15:33:08 INFO  LoginToOrder:104 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (02792ac2c0fe7ecbe6fc2d9881d6b6a1)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:33:08 INFO  LoginToOrder:106 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (02792ac2c0fe7ecbe6fc2d9881d6b6a1)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:33:10 INFO  LoginToOrder:108 - Successfully loggedin to shopping site
+2020-07-30 15:33:12 INFO  LoginToOrder:110 - Entering Women section
+2020-07-30 15:33:28 INFO  TestBase:278 - Browser quit
+2020-07-30 15:38:19 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:38:19 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:38:19 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:38:21 INFO  LoginToOrder:102 - Cleared the UserName field and the object is 
+2020-07-30 15:38:21 INFO  LoginToOrder:104 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (7c99388c8b7ba6bbaa8ad2a4ab0d0e0c)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:38:22 INFO  LoginToOrder:106 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (7c99388c8b7ba6bbaa8ad2a4ab0d0e0c)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:38:23 INFO  LoginToOrder:108 - Successfully loggedin to shopping site
+2020-07-30 15:38:26 INFO  LoginToOrder:110 - Entering Women section
+2020-07-30 15:38:41 INFO  TestBase:278 - Browser quit
+2020-07-30 15:39:34 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:39:34 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:39:34 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:39:36 INFO  LoginToOrder:102 - Cleared the UserName field and the object is 
+2020-07-30 15:39:36 INFO  LoginToOrder:104 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (e0e2dfee415ec05ad1c2208251439cf1)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:39:36 INFO  LoginToOrder:106 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (e0e2dfee415ec05ad1c2208251439cf1)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:39:38 INFO  LoginToOrder:108 - Successfully loggedin to shopping site
+2020-07-30 15:39:40 INFO  LoginToOrder:110 - Entering Women section
+2020-07-30 15:40:03 INFO  TestBase:278 - Browser quit
+2020-07-30 15:46:25 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:46:25 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:46:25 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:46:27 INFO  LoginToOrder:110 - Cleared the UserName field and the object is 
+2020-07-30 15:46:27 INFO  LoginToOrder:112 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (7e0e1548ed95984c6b9c63e58cfee7bd)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:46:27 INFO  LoginToOrder:114 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (7e0e1548ed95984c6b9c63e58cfee7bd)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:46:30 INFO  LoginToOrder:116 - Successfully loggedin to shopping site
+2020-07-30 15:46:32 INFO  LoginToOrder:118 - Entering Women section
+2020-07-30 15:46:56 INFO  TestBase:278 - Browser quit
+2020-07-30 15:58:37 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 15:58:37 INFO  WaitHelper:40 - Element is present 
+2020-07-30 15:58:37 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 15:58:39 INFO  LoginToOrder:110 - Cleared the UserName field and the object is 
+2020-07-30 15:58:39 INFO  LoginToOrder:112 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (50695d3677630f0974ac96be0cfbb6a8)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 15:58:39 INFO  LoginToOrder:114 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (50695d3677630f0974ac96be0cfbb6a8)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 15:58:41 INFO  LoginToOrder:116 - Successfully loggedin to shopping site
+2020-07-30 15:58:43 INFO  LoginToOrder:118 - Entering Women section
+2020-07-30 15:58:45 INFO  LoginToOrder:124 - Clicked more options for detail
+2020-07-30 15:58:51 INFO  LoginToOrder:127 - Item added to cart
+2020-07-30 15:58:58 INFO  LoginToOrder:130 - first tab checkout
+2020-07-30 15:58:59 INFO  LoginToOrder:134 - second tab checkout
+2020-07-30 15:59:05 INFO  LoginToOrder:139 - third tab checkout
+2020-07-30 15:59:07 INFO  TestBase:278 - Browser quit
+2020-07-30 16:19:50 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 16:19:50 INFO  WaitHelper:40 - Element is present 
+2020-07-30 16:19:50 INFO  loginToApplication:32 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 16:19:52 INFO  LoginToOrder:113 - Cleared the UserName field and the object is 
+2020-07-30 16:19:53 INFO  LoginToOrder:115 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (2a427d55cd901a87372c7b4f14fad4af)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 16:19:53 INFO  LoginToOrder:117 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (2a427d55cd901a87372c7b4f14fad4af)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 16:19:55 INFO  LoginToOrder:119 - Successfully loggedin to shopping site
+2020-07-30 16:19:59 INFO  LoginToOrder:121 - Entering Women section
+2020-07-30 16:20:02 INFO  LoginToOrder:127 - Clicked more options for detail
+2020-07-30 16:20:07 INFO  LoginToOrder:130 - Item added to cart
+2020-07-30 16:20:14 INFO  LoginToOrder:133 - first tab checkout
+2020-07-30 16:20:16 INFO  LoginToOrder:137 - Summary: tab checkout
+2020-07-30 16:20:23 INFO  LoginToOrder:142 - Address: tab checkout
+2020-07-30 16:20:25 INFO  LoginToOrder:146 - Final Check out for payment section
+2020-07-30 16:20:32 INFO  TestBase:278 - Browser quit
+2020-07-30 17:31:21 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:31:21 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:31:21 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 17:31:24 INFO  LoginToOrder:92 - Cleared the UserName field and the object is 
+2020-07-30 17:31:24 INFO  LoginToOrder:94 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (d2ff6c36f2c8fe8f09186b00e8ec09c8)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 17:31:24 INFO  LoginToOrder:96 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (d2ff6c36f2c8fe8f09186b00e8ec09c8)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 17:31:26 INFO  LoginToOrder:98 - Successfully loggedin to shopping site
+2020-07-30 17:31:29 INFO  LoginToOrder:100 - Entering Women section
+2020-07-30 17:31:31 INFO  LoginToOrder:106 - Clicked more options for detail
+2020-07-30 17:31:36 INFO  LoginToOrder:109 - Item added to cart
+2020-07-30 17:31:43 INFO  LoginToOrder:112 - first tab checkout
+2020-07-30 17:31:45 INFO  LoginToOrder:116 - Summary: tab checkout
+2020-07-30 17:31:52 INFO  LoginToOrder:121 - Address: tab checkout
+2020-07-30 17:31:55 INFO  LoginToOrder:125 - Final Check out for payment section
+2020-07-30 17:32:05 INFO  LoginToOrder:132 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (d2ff6c36f2c8fe8f09186b00e8ec09c8)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 17:32:05 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:32:05 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:32:06 INFO  TestBase:278 - Browser quit
+2020-07-30 17:36:45 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:36:45 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:36:45 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 17:36:47 INFO  LoginToOrder:92 - Cleared the UserName field and the object is 
+2020-07-30 17:36:47 INFO  LoginToOrder:94 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (fa9adae4b7fcf51bb3562816f6118dad)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 17:36:47 INFO  LoginToOrder:96 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (fa9adae4b7fcf51bb3562816f6118dad)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 17:36:49 INFO  LoginToOrder:98 - Successfully loggedin to shopping site
+2020-07-30 17:36:51 INFO  LoginToOrder:100 - Entering Women section
+2020-07-30 17:36:54 INFO  LoginToOrder:106 - Clicked more options for detail
+2020-07-30 17:36:59 INFO  LoginToOrder:109 - Item added to cart
+2020-07-30 17:37:06 INFO  LoginToOrder:112 - first tab checkout
+2020-07-30 17:37:08 INFO  LoginToOrder:116 - Summary: tab checkout
+2020-07-30 17:37:15 INFO  LoginToOrder:121 - Address: tab checkout
+2020-07-30 17:37:17 INFO  LoginToOrder:125 - Final Check out for payment section
+2020-07-30 17:37:29 INFO  LoginToOrder:132 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (fa9adae4b7fcf51bb3562816f6118dad)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 17:37:29 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:37:29 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:37:29 INFO  loginToApplication:29 -  ===========Successfully Verified the ================== 
+2020-07-30 17:37:30 INFO  TestBase:278 - Browser quit
+2020-07-30 17:40:39 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:40:39 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:40:39 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 17:40:41 INFO  LoginToOrder:92 - Cleared the UserName field and the object is 
+2020-07-30 17:40:42 INFO  LoginToOrder:94 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (5242ebc8f75f3179ca2465378cb24c3a)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 17:40:42 INFO  LoginToOrder:96 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (5242ebc8f75f3179ca2465378cb24c3a)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 17:40:45 INFO  LoginToOrder:98 - Successfully loggedin to shopping site
+2020-07-30 17:40:49 INFO  LoginToOrder:100 - Entering Women section
+2020-07-30 17:40:52 INFO  LoginToOrder:106 - Clicked more options for detail
+2020-07-30 17:40:57 INFO  LoginToOrder:109 - Item added to cart
+2020-07-30 17:41:05 INFO  LoginToOrder:112 - first tab checkout
+2020-07-30 17:41:07 INFO  LoginToOrder:116 - Summary: tab checkout
+2020-07-30 17:41:14 INFO  LoginToOrder:121 - Address: tab checkout
+2020-07-30 17:41:15 INFO  LoginToOrder:125 - Final Check out for payment section
+2020-07-30 17:41:26 INFO  LoginToOrder:132 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (5242ebc8f75f3179ca2465378cb24c3a)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 17:41:26 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:41:26 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:41:26 INFO  loginToApplication:29 -  ===========Successfully Verified the ================== 
+2020-07-30 17:41:27 INFO  TestBase:278 - Browser quit
+2020-07-30 17:50:32 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:50:32 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:50:32 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 17:50:35 INFO  LoginToOrder:96 - Cleared the UserName field and the object is 
+2020-07-30 17:50:35 INFO  LoginToOrder:98 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (5004ce14ff76e66d35ffd5512f8cbf49)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 17:50:35 INFO  LoginToOrder:100 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (5004ce14ff76e66d35ffd5512f8cbf49)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 17:50:37 INFO  LoginToOrder:102 - Successfully loggedin to shopping site
+2020-07-30 17:50:40 INFO  LoginToOrder:104 - Entering Women section
+2020-07-30 17:50:43 INFO  LoginToOrder:110 - Clicked more options for detail
+2020-07-30 17:50:48 INFO  LoginToOrder:113 - Item added to cart
+2020-07-30 17:50:55 INFO  LoginToOrder:116 - first tab checkout
+2020-07-30 17:50:57 INFO  LoginToOrder:120 - Summary: tab checkout
+2020-07-30 17:51:04 INFO  LoginToOrder:125 - Address: tab checkout
+2020-07-30 17:51:06 INFO  LoginToOrder:129 - Final Check out for payment section
+2020-07-30 17:51:15 INFO  LoginToOrder:140 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (5004ce14ff76e66d35ffd5512f8cbf49)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 17:51:15 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:51:16 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:51:16 INFO  loginToApplication:29 -  ===========Successfully Verified the ================== 
+2020-07-30 17:51:16 INFO  LoginToOrder:135 - Clicking on the Signout and the object is: [[ChromeDriver: chrome on XP (5004ce14ff76e66d35ffd5512f8cbf49)] -> xpath: //a[@class='logout']]
+2020-07-30 17:51:16 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 17:51:16 INFO  WaitHelper:40 - Element is present 
+2020-07-30 17:51:20 INFO  TestBase:278 - Browser quit
+2020-07-30 18:10:50 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:10:50 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:10:50 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:10:52 INFO  LoginToOrder:97 - Sign in is clicked and login fields are displayed
+2020-07-30 18:10:53 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (edf0b5412308d65e334a359a621f007c)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:10:53 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (edf0b5412308d65e334a359a621f007c)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:10:54 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 18:10:54 INFO  LoginToOrder:138 - Checking for the presence of dashabord link and the object is: Proxy element for: DefaultElementLocator 'By.xpath: //strong[text()='Your order on My Store is complete.']'
+2020-07-30 18:10:54 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:11:46 INFO  TestBase:198 - Browser quit
+2020-07-30 18:13:27 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:13:27 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:13:27 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:13:30 INFO  LoginToOrder:97 - Sign in is clicked and login fields are displayed
+2020-07-30 18:13:30 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (bb04c56aa948acad7165edfdd439b128)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:13:30 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (bb04c56aa948acad7165edfdd439b128)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:13:32 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 18:13:32 INFO  loginToApplication:28 -  ===========Loggedin to shopping site, start the shopping=================== 
+2020-07-30 18:13:32 INFO  LoginToOrder:107 - Start Shopping after login
+2020-07-30 18:13:35 INFO  LoginToOrder:109 - Entering Women section
+2020-07-30 18:13:36 INFO  TestBase:198 - Browser quit
+2020-07-30 18:17:45 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:17:45 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:17:45 INFO  loginToApplication:26 -  ===========Loggedin to shopping site, start the shopping=================== 
+2020-07-30 18:17:47 INFO  LoginToOrder:97 - Sign in is clicked and login fields are displayed
+2020-07-30 18:17:48 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (1d57a3b0a6ea439297ab23f39c8da1dd)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:17:48 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (1d57a3b0a6ea439297ab23f39c8da1dd)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:17:50 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 18:17:50 INFO  LoginToOrder:104 - Start Shopping after login
+2020-07-30 18:17:52 INFO  LoginToOrder:106 - Entering Women section
+2020-07-30 18:17:54 INFO  TestBase:198 - Browser quit
+2020-07-30 18:19:22 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:19:22 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:19:22 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:19:25 INFO  LoginToOrder:97 - Sign in is clicked and login fields are displayed
+2020-07-30 18:19:25 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (12f29496a593bc397e32229f66198087)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:19:25 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (12f29496a593bc397e32229f66198087)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:19:28 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 18:19:28 INFO  LoginToOrder:104 - Start Shopping after login
+2020-07-30 18:19:31 INFO  LoginToOrder:106 - Entering Women section
+2020-07-30 18:19:32 INFO  TestBase:198 - Browser quit
+2020-07-30 18:20:20 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:20:20 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:20:20 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:20:23 INFO  LoginToOrder:97 - Sign in is clicked and login fields are displayed
+2020-07-30 18:20:23 INFO  LoginToOrder:99 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (ba4e9490290fd903519d9c7cad83df3e)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:20:23 INFO  LoginToOrder:101 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (ba4e9490290fd903519d9c7cad83df3e)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:20:25 INFO  LoginToOrder:103 - Successfully loggedin to shopping site
+2020-07-30 18:20:25 INFO  LoginToOrder:104 - Start Shopping after login
+2020-07-30 18:20:28 INFO  LoginToOrder:106 - Entering Women section
+2020-07-30 18:20:29 INFO  TestBase:198 - Browser quit
+2020-07-30 18:23:12 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:23:12 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:23:12 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:23:14 INFO  LoginToOrder:98 - Sign in is clicked and login fields are displayed
+2020-07-30 18:23:14 INFO  LoginToOrder:100 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (aed5daf3bf44a37b743f20dd2a14f5c7)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:23:14 INFO  LoginToOrder:102 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (aed5daf3bf44a37b743f20dd2a14f5c7)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:23:16 INFO  LoginToOrder:104 - Successfully loggedin to shopping site
+2020-07-30 18:23:16 INFO  LoginToOrder:105 - Start Shopping after login
+2020-07-30 18:23:19 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 18:23:21 INFO  LoginToOrder:112 - Clicked more options for detail
+2020-07-30 18:23:21 INFO  LoginToOrder:114 - Item added to cart
+2020-07-30 18:23:23 INFO  TestBase:198 - Browser quit
+2020-07-30 18:25:15 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:25:15 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:25:15 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:25:17 INFO  LoginToOrder:98 - Sign in is clicked and login fields are displayed
+2020-07-30 18:25:18 INFO  LoginToOrder:100 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (a56f8476a4d77cd0576fc1cf665cf61f)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:25:18 INFO  LoginToOrder:102 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (a56f8476a4d77cd0576fc1cf665cf61f)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:25:20 INFO  LoginToOrder:104 - Successfully loggedin to shopping site
+2020-07-30 18:25:20 INFO  LoginToOrder:105 - Start Shopping after login
+2020-07-30 18:25:22 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 18:25:25 INFO  LoginToOrder:112 - Clicked more options for detail
+2020-07-30 18:25:25 INFO  LoginToOrder:114 - Item added to cart
+2020-07-30 18:25:25 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:25:26 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:25:28 INFO  LoginToOrder:117 - first tab checkout
+2020-07-30 18:25:30 INFO  LoginToOrder:120 - Summary: tab checkout
+2020-07-30 18:25:31 INFO  LoginToOrder:123 - Address: tab checkout
+2020-07-30 18:25:33 INFO  LoginToOrder:126 - Final Check out for payment section
+2020-07-30 18:25:36 INFO  loginToApplication:28 -  ============Finished shopping ensure the order is successful=================== 
+2020-07-30 18:25:36 INFO  LoginToOrder:137 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (a56f8476a4d77cd0576fc1cf665cf61f)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 18:25:36 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:25:36 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:25:36 INFO  loginToApplication:30 -  ===========Successfully Verified the shopping status================== 
+2020-07-30 18:25:36 INFO  LoginToOrder:132 - Clicking on the Signout and the object is: [[ChromeDriver: chrome on XP (a56f8476a4d77cd0576fc1cf665cf61f)] -> xpath: //a[@class='logout']]
+2020-07-30 18:25:36 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:25:36 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:25:40 INFO  TestBase:198 - Browser quit
+2020-07-30 18:27:05 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:27:05 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:27:05 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:27:07 INFO  LoginToOrder:98 - Sign in is clicked and login fields are displayed
+2020-07-30 18:27:07 INFO  LoginToOrder:100 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (598ff477fba09cc0c48007d250f4514b)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:27:08 INFO  LoginToOrder:102 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (598ff477fba09cc0c48007d250f4514b)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:27:09 INFO  LoginToOrder:104 - Successfully loggedin to shopping site
+2020-07-30 18:27:09 INFO  LoginToOrder:105 - Start Shopping after login
+2020-07-30 18:27:12 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 18:27:15 INFO  LoginToOrder:112 - Clicked more options for detail
+2020-07-30 18:27:15 INFO  LoginToOrder:114 - Item added to cart
+2020-07-30 18:27:15 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:27:16 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:27:18 INFO  LoginToOrder:117 - first tab checkout
+2020-07-30 18:27:19 INFO  LoginToOrder:120 - Summary: tab checkout
+2020-07-30 18:27:22 INFO  LoginToOrder:123 - Address: tab checkout
+2020-07-30 18:27:25 INFO  LoginToOrder:126 - Final Check out for payment section
+2020-07-30 18:27:33 INFO  loginToApplication:28 -  ============Finished shopping ensure the order is successful=================== 
+2020-07-30 18:27:33 INFO  LoginToOrder:137 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (598ff477fba09cc0c48007d250f4514b)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 18:27:33 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:27:33 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:27:33 INFO  loginToApplication:30 -  ===========Successfully Verified the shopping status================== 
+2020-07-30 18:27:33 INFO  LoginToOrder:132 - Clicking on the Signout and the object is: [[ChromeDriver: chrome on XP (598ff477fba09cc0c48007d250f4514b)] -> xpath: //a[@class='logout']]
+2020-07-30 18:27:33 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:27:33 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:27:39 INFO  TestBase:198 - Browser quit
+2020-07-30 18:28:56 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:28:56 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:28:56 INFO  loginToApplication:26 -  ============Executing TestCase: Verify DataSource Login=================== 
+2020-07-30 18:28:58 INFO  LoginToOrder:98 - Sign in is clicked and login fields are displayed
+2020-07-30 18:28:58 INFO  LoginToOrder:100 - Entered the UserName soumyahulagursho309@gmail.com and the object is: [[ChromeDriver: chrome on XP (0fd3e04287ce94f473ff90a3b19ccbc2)] -> xpath: //a[contains(text(),'Sign in')]]
+2020-07-30 18:28:59 INFO  LoginToOrder:102 - Entered the Password soumya123 and the object is: [[ChromeDriver: chrome on XP (0fd3e04287ce94f473ff90a3b19ccbc2)] -> xpath: //input[contains(@id,'passwd')]]
+2020-07-30 18:29:00 INFO  LoginToOrder:104 - Successfully loggedin to shopping site
+2020-07-30 18:29:00 INFO  LoginToOrder:105 - Start Shopping after login
+2020-07-30 18:29:03 INFO  LoginToOrder:107 - Entering Women section
+2020-07-30 18:29:06 INFO  LoginToOrder:112 - Clicked more options for detail
+2020-07-30 18:29:06 INFO  LoginToOrder:114 - Item added to cart
+2020-07-30 18:29:06 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:29:08 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:29:10 INFO  LoginToOrder:117 - first tab checkout
+2020-07-30 18:29:10 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:29:10 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:29:11 INFO  LoginToOrder:121 - Summary: tab checkout
+2020-07-30 18:29:11 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:29:11 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:29:12 INFO  LoginToOrder:125 - Address: tab checkout
+2020-07-30 18:29:14 INFO  LoginToOrder:128 - Final Check out for payment section
+2020-07-30 18:29:17 INFO  loginToApplication:28 -  ============Finished shopping ensure the order is successful=================== 
+2020-07-30 18:29:17 INFO  LoginToOrder:139 - Checking for the presence of dashabord link and the object is: [[ChromeDriver: chrome on XP (0fd3e04287ce94f473ff90a3b19ccbc2)] -> xpath: //strong[text()='Your order on My Store is complete.']]
+2020-07-30 18:29:17 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:29:17 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:29:17 INFO  loginToApplication:30 -  ===========Successfully Verified the shopping status================== 
+2020-07-30 18:29:17 INFO  LoginToOrder:134 - Clicking on the Signout and the object is: [[ChromeDriver: chrome on XP (0fd3e04287ce94f473ff90a3b19ccbc2)] -> xpath: //a[@class='logout']]
+2020-07-30 18:29:17 INFO  WaitHelper:36 - Waiting for the element visibility 
+2020-07-30 18:29:17 INFO  WaitHelper:40 - Element is present 
+2020-07-30 18:29:22 INFO  TestBase:198 - Browser quit

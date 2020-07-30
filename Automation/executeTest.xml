@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shopping Site" verbose="1" >
+<test name="LoginToEcommerceShopping"> 
+    <classes>
+      <class name="test.automation.loginToBuy.loginToApplication"/>
+    </classes>
+  </test>
+</suite>
